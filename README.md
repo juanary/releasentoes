@@ -1,1 +1,3 @@
-# releasentoes
+[+] Se corrigieron bugs menores
+[+] Se mejoró el rendimiento de conexión
+[+] Nuevo contenido de evento "Noche Ninja
